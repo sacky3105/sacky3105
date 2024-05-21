@@ -48,3 +48,7 @@
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,java,php,py,cs,mysql,linux,nodejs,npm,pnpm,powershell,spring,django,laravel,docker,dotnet,eclipse,visualstudio,vscode)](https://skillicons.dev)
+
+## LGTM
+
+[![LGTM](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3ZjM1aDR1Mmx4aGJoaGhiNjVneWxuM29waW80azdrdjhudTBuZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2K4V9yBmFjjKo/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3ZjM1aDR1Mmx4aGJoaGhiNjVneWxuM29waW80azdrdjhudTBuZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2K4V9yBmFjjKo/giphy.gif)
