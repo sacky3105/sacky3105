@@ -1,6 +1,6 @@
 ## Introduction
 
-<h4 align="left">
+<i align="left">
    Name:Takuch</br>
    Birthday:1990/12/11</br>
    Origin:Miyazaki/Japan</br>
@@ -8,7 +8,7 @@
    Major:Economics</br>
    My hobby:Reading books</br>
    My favorite Animation:Code Geass Lelouch of rebelion</br>
-</h4>
+</i>
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=sacky3105&theme=radical)](https://github.com/sacky3105/github-profile-trophy)
