@@ -26,6 +26,8 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,git,github,java,py,mysql,pnpm,powershell,spring,django,docker,dotnet,eclipse,visualstudio,vscode)](https://skillicons.dev)
 
-## LGTM
+## Etc...
+
+### LGTM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
  [![LGTM](https://media.giphy.com/media/5tamwFxY7PTW0/giphy.gif?cid=790b7611pbkz431uouz1vyrb2ewcte6igknad1l63z9ri68m&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media.giphy.com/media/5tamwFxY7PTW0/giphy.gif?cid=790b7611pbkz431uouz1vyrb2ewcte6igknad1l63z9ri68m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
