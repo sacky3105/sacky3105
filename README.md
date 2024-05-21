@@ -1,37 +1,14 @@
 ## Introduction
 
-<div align="center">
-   <table border=1>
-   <tr>
-     <th>Question</th>
-     <th>Answer</th>
-   </tr>
-   <tr>
-     <td>Name</td>
-     <td>TAKUCH</td>
-   </tr>
-   <tr>
-     <td>Birthday</td>
-     <td>1990/12/11</td>
-   </tr>
-   <tr>
-     <td>Birthplace</td>
-     <td>Miyazaki in Japan</td>
-   </tr>
-   <tr>
-     <td>Club Activity Career</td>
-     <td>Soft Tennis,Track & Feild,Cheering Party,Glee Club</td>
-   </tr>
-   <tr>
-     <td>My Hobby</td>
-     <td>Reading books, karaoke</td>
-   </tr>
-   <tr>
-     <td>Favorite Animation</td>
-     <td>ONE PIECE,Naruto,Naruto Shippuden,Code Geass Lelouch of rebellion</td>
-   </tr>
- </table>
- </div>
+<h4 align="left">
+   Name:Takuch</br>
+   Birthday:1990/12/11</br>
+   Origin:Miyazaki/Japan</br>
+   Club Activity:Soft Tennis,Track & Field,Cheering Party,Men's Chorus Glee Club</br>
+   Major:Economics</br>
+   My hobby:Reading books</br>
+   My favorite Animation:Code Geass Lelouch of rebelion</br>
+</h4>
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=sacky3105&theme=radical)](https://github.com/sacky3105/github-profile-trophy)
