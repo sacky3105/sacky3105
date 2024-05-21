@@ -47,8 +47,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sacky3105&theme=radical&utcOffset=8)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,java,php,py,cs,mysql,linux,nodejs,npm,pnpm,powershell,spring,django,laravel,docker,dotnet,eclipse,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,git,github,java,py,mysql,pnpm,powershell,spring,django,docker,dotnet,eclipse,visualstudio,vscode)](https://skillicons.dev)
 
 ## LGTM
 
-[![LGTM](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3ZjM1aDR1Mmx4aGJoaGhiNjVneWxuM29waW80azdrdjhudTBuZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2K4V9yBmFjjKo/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk3ZjM1aDR1Mmx4aGJoaGhiNjVneWxuM29waW80azdrdjhudTBuZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2K4V9yBmFjjKo/giphy.gif)
+ [![LGTM](https://media.giphy.com/media/5tamwFxY7PTW0/giphy.gif?cid=790b7611pbkz431uouz1vyrb2ewcte6igknad1l63z9ri68m&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media.giphy.com/media/5tamwFxY7PTW0/giphy.gif?cid=790b7611pbkz431uouz1vyrb2ewcte6igknad1l63z9ri68m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
