@@ -9,7 +9,7 @@
 </p>
 
 ## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=sacky3105)](https://github.com/sacky3105/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sacky3105&theme=radical)](https://github.com/sacky3105/github-profile-trophy)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sacky3105&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
