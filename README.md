@@ -1,10 +1,12 @@
 # Introduction
-Name：TAKUCH  
-Birthday:1990/12/11  
-Origin:Miyazaki/Japan  
-Major:Economics  
-Job Career:Manufacturing ⇒ Software Engineer  
-My hobby:Reading books  
+<p align = "left">
+  Name：TAKUCH<br>
+  Birthday:1990/12/11<br>
+  Origin:Miyazaki/Japan<br>
+  Major:Economics<br>
+  Job Career:Manufacturing ⇒ Software Engineer<br>
+  My hobby:Reading books<br>
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sacky3105&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sacky3105&theme=github)
